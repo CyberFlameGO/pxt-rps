@@ -1,5 +1,5 @@
 {
-    "name": "paper-scissors-rock-project",
+    "name": "pxt-rps",
     "description": "",
     "dependencies": {
         "core": "*",
